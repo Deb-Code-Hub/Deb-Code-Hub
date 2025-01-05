@@ -41,27 +41,27 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ### Cloud Platforms
 - <img src="./Images & GIFs/AWS.jpg" width="48" height="48"> **Amazon Web Services (AWS)**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Microsoft Azure**
+- <img src="./Images & GIFs/microsoft_azure-icon.svg" width="48" height="48"> **Microsoft Azure**
 
 ### Big Data Tools & Technologies
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Hadoop**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Hive**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **PySpark**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Sqoop**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Databricks**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Snowflake**
+- <img src="./Images & GIFs/hadoop.svg" width="48" height="48"> **Hadoop**
+- <img src="./Images & GIFs/apache_hive-icon.svg" width="48" height="48"> **Hive**
+- <img src="./Images & GIFs/pyspark.png" width="48" height="48"> **PySpark**
+- <img src="./Images & GIFs/Apache_Sqoop_logo.svg" width="48" height="48"> **Sqoop**
+- <img src="./Images & GIFs/databricks.png" width="48" height="48"> **Databricks**
+- <img src="./Images & GIFs/snowflake.png" width="48" height="48"> **Snowflake**
 
 ### Machine Learning Libraries & Tools 
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **TensorFlow**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Keras**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Scikit-learn**
+- <img src="./Images & GIFs/tensor.png" width="48" height="48"> **TensorFlow**
+- <img src="./Images & GIFs/keras.jpg" width="48" height="48"> **Keras**
+- <img src="./Images & GIFs/Scikit_learn_logo_small.svg" width="48" height="48"> **Scikit-learn**
 
 ### Version Control & Operating Systems
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Git**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Linux**
+- <img src="./Images & GIFs/git-scm-icon.svg" width="48" height="48"> **Git**
+- <img src="./Images & GIFs/linux-original.svg" width="48" height="48"> **Linux**
 
 ### Hardware & Embedded Systems 
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Arduino**
+- <img src="./Images & GIFs/arduino-1.svg" width="48" height="48"> **Arduino**
 
 ---
 
