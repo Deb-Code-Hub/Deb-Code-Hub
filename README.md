@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 ## 🛠️ Skills and Expertise
 
 ### Client Side
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+- <img src="./Images & GIFs/HTML.png" width="48" height="48"> **HTML**
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS and Bootstrap**
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript and JQuery**
 
