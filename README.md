@@ -7,31 +7,31 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 ## 🛠️ Skills and Expertise
 
 ### Client Side
-- **HTML**
-- **CSS and Bootstrap**
-- **JavaScript and JQuery**
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS and Bootstrap**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript and JQuery**
 
 ### Server Side
-- **Django Framework**
-- **MySQL, PostgreSQL, PL/SQL**
-- **AWS**
+- ![Django](https://img.icons8.com/color/48/000000/django.png) **Django Framework**
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) **MySQL, PostgreSQL, PL/SQL**
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**
 
 ### Programming Languages
-- **Java**
-- **Python**
-- **R Software**
-- **UNIX Shell Scripting**
-- **C**
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
+- ![R](https://img.icons8.com/ios-filled/50/000000/r.png) **R Software**
+- ![UNIX](https://img.icons8.com/color/48/000000/console.png) **UNIX Shell Scripting**
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**
 
 ### Data Integration & Big Data Tools
-- **Informatica PowerCenter**
-- **Hadoop & PySpark**
+- ![Informatica](https://img.icons8.com/color/48/000000/informatica.png) **Informatica PowerCenter**
+- ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) **Hadoop & PySpark**
 
 ---
 
 ## 🌟 About Me
 
-![Developer at Work](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 I love combining the power of data and code to solve complex problems. Whether it's developing intuitive front-end experiences, efficient back-end services, or big data solutions, I thrive on delivering high-quality software.
 
