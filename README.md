@@ -61,6 +61,9 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ---
 
+## 📄 My Resume 
+- [View My Resume](https://github.com/yourusername/yourrepository/raw/main/assets/yourresume.pdf)
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com)
