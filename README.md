@@ -24,7 +24,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/JS.png" width="48" height="48"> **JavaScript and JQuery**
 
 ### Backend Development
-- <img src="./Images & GIFs/django.svg" width="48" height="48"> **Django Framework**
+- <img src="./Images & GIFs/django.svg" width="48" height="48"> **Django**
 - <img src="./Images & GIFs/mysql-original-wordmark.svg" width="48" height="48"> **MySQL**
 - <img src="./Images & GIFs/postgresql-original-wordmark.svg" width="48" height="48"> **PostgreSQL**
 - <img src="./Images & GIFs/plsql.png" width="48" height="48"> **PL/SQL**
@@ -33,7 +33,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/java.png" width="48" height="48"> **Java**
 - <img src="./Images & GIFs/py.png" width="48" height="48"> **Python**
 - <img src="./Images & GIFs/R.png" width="48" height="48"> **R Software**
-- <img src="./Images & GIFs/gnu_bash-icon.svg" width="48" height="48"> **UNIX Shell Scripting (Bash)**
+- <img src="./Images & GIFs/gnu_bash-icon.svg" width="48" height="48"> **Shell Scripting (Bash)**
 - <img src="./Images & GIFs/c.png" width="48" height="48"> **C**
 
 ### Data Integration & ETL Tools
