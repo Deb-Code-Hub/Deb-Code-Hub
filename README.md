@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 
 ## 🌟 About Me
 
-<img src="./Images & GIFs/Coder.gif" width="300" height="200" alt="Coding Animation">
+<img src="./Images & GIFs/Coder.gif" width="500" height="300" alt="Coding Animation">
 
 I love combining the power of data and code to solve complex problems. Whether it's developing intuitive front-end experiences, efficient back-end services, or big data solutions, I thrive on delivering high-quality software.
 
