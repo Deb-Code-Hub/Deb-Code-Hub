@@ -52,6 +52,11 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Databricks**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Snowflake**
 
+### Machine Learning Libraries & Tools 
+- ![TensorFlow](./assets/tensorflow.png) **TensorFlow**
+- ![Keras](./assets/keras.png) **Keras**
+- ![Scikit-learn](./assets/scikit-learn.png) **Scikit-learn**
+
 ### Version Control & Operating Systems
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Git**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Linux**
