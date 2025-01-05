@@ -57,15 +57,13 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - ![Linux](./assets/linux.png) **Linux**
 
 ### Hardware & Embedded Systems 
-- ![Arduino](./assets/arduino.png) **Arduino Coding**
+- ![Arduino](./assets/arduino.png) **Arduino**
 
 ---
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://www.twitter.com)
-- [Portfolio](https://www.yourportfolio.com)
 
 ---
 
