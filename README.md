@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 
 I love combining the power of data and code to solve complex problems. Whether it's developing intuitive front-end experiences, efficient back-end services, or big data solutions, I thrive on delivering high-quality software.
 
+**Currently working as a PySpark Developer**, I specialize in building and managing data pipelines and big data processing.
+
 Feel free to explore my repositories and get in touch if you'd like to collaborate on a project!
 
 ---
