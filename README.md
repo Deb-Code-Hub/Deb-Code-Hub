@@ -28,7 +28,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/plsql.png" width="48" height="48"> **PL/SQL**
 
 ### Programming Languages
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Java**
+- <img src="./Images & GIFs/java.png" width="48" height="48"> **Java**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Python**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **R Software**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **UNIX Shell Scripting (Bash)**
