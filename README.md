@@ -14,14 +14,6 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ---
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://www.twitter.com)
-- [Portfolio](https://www.yourportfolio.com)
-
----
-
 ## 🛠️ Skills and Expertise
 
 ### Client Side
@@ -44,6 +36,14 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 ### Data Integration & Big Data Tools
 - ![Informatica](https://img.icons8.com/color/48/000000/informatica.png) **Informatica PowerCenter**
 - ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png) **Hadoop & PySpark**
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://www.twitter.com)
+- [Portfolio](https://www.yourportfolio.com)
 
 ---
 
