@@ -56,6 +56,9 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - ![Git](./assets/git.png) **Git**
 - ![Linux](./assets/linux.png) **Linux**
 
+### Hardware & Embedded Systems 
+- ![Arduino](./assets/arduino.png) **Arduino Coding**
+
 ---
 
 ## 📫 Connect with Me
