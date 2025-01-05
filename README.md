@@ -31,14 +31,13 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/java.png" width="48" height="48"> **Java**
 - <img src="./Images & GIFs/py.png" width="48" height="48"> **Python**
 - <img src="./Images & GIFs/R.png" width="48" height="48"> **R Software**
-- <img src="./Images & GIFs/gnu_bash_icon.svg" width="48" height="48"> **UNIX Shell Scripting (Bash)**
+- <img src="./Images & GIFs/gnu_bash-icon.svg" width="48" height="48"> **UNIX Shell Scripting (Bash)**
 - <img src="./Images & GIFs/c.png" width="48" height="48"> **C**
 
 ### Data Integration & ETL Tools
 - <img src="./Images & GIFs/infa.jpg" width="48" height="48"> **Informatica PowerCenter**
 - <img src="./Images & GIFs/talend.png" width="48" height="48"> **Talend**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Informatica Intelligent Cloud Services (IICS)**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **Sqoop**
+- <img src="./Images & GIFs/Informatica.IICS0_.jpg" width="48" height="48"> **Informatica Intelligent Cloud Services (IICS)**
 
 ### Cloud Platforms
 - <img src="./Images & GIFs/AWS.jpg" width="48" height="48"> **Amazon Web Services (AWS)**
@@ -48,6 +47,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Hadoop**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Hive**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **PySpark**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Sqoop**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Databricks**
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Snowflake**
 
