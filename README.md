@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 
 ### Client Side
 - <img src="./Images & GIFs/HTML.png" width="48" height="48"> **HTML**
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS and Bootstrap**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript and JQuery**
+- <img src="./Images & GIFs/HTML.png" width="48" height="48"> **CSS and Bootstrap**
+- <img src="./Images & GIFs/HTML.png" width="48" height="48"> **JavaScript and JQuery**
 
 ### Server Side
 - ![Django](https://img.icons8.com/color/48/000000/django.png) **Django Framework**
