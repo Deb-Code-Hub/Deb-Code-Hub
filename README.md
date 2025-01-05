@@ -40,7 +40,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 - <img src="./Images & GIFs/Informatica.IICS0_.jpg" width="48" height="48"> **Informatica Intelligent Cloud Services (IICS)**
 
 ### Cloud Platforms
-- <img src="./Images & GIFs/AWS.jpg" width="48" height="48"> **Amazon Web Services (AWS)**
+- <img src="./Images & GIFs/AWS.png" width="48" height="48"> **Amazon Web Services (AWS)**
 - <img src="./Images & GIFs/microsoft_azure-icon.svg" width="48" height="48"> **Microsoft Azure**
 
 ### Big Data Tools & Technologies
