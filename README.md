@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, robust, a
 
 ## 🌟 About Me
 
-<img src="./assets/coding-animation.gif" width="300" height="200" alt="Coding Animation">
+<img src="./Images & GIFs/Coder.gif" width="300" height="200" alt="Coding Animation">
 
 I love combining the power of data and code to solve complex problems. Whether it's developing intuitive front-end experiences, efficient back-end services, or big data solutions, I thrive on delivering high-quality software.
 
@@ -17,47 +17,47 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 ## 🛠️ Skills and Expertise
 
 ### Frontend Development
-- ![HTML](./assets/html.png) **HTML**
-- ![CSS](./assets/css.png) **CSS and Bootstrap**
-- ![JavaScript](./assets/javascript.png) **JavaScript and JQuery**
+- <img src="./Images & GIFs/HTML.png" width="48" height="48"> **HTML**
+- <img src="./Images & GIFs/CSS.png" width="48" height="48"> **CSS and Bootstrap**
+- <img src="./Images & GIFs/JS.png" width="48" height="48"> **JavaScript and JQuery**
 
 ### Backend Development
-- ![Django](./assets/django.png) **Django Framework**
-- ![MySQL](./assets/mysql.png) **MySQL**
-- ![PostgreSQL](./assets/postgresql.png) **PostgreSQL**
-- ![PL/SQL](./assets/plsql.png) **PL/SQL**
+- <img src="./Images & GIFs/django.svg" width="48" height="48"> **Django Framework**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **MySQL**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **PostgreSQL**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **PL/SQL**
 
 ### Programming Languages
-- ![Java](./assets/java.png) **Java**
-- ![Python](./assets/python.png) **Python**
-- ![R](./assets/r.png) **R Software**
-- ![Shell Scripting](./assets/unix.png) **UNIX Shell Scripting (Bash)**
-- ![C](./assets/c.png) **C**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Java**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Python**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **R Software**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **UNIX Shell Scripting (Bash)**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **C**
 
 ### Data Integration & ETL Tools
-- ![Informatica](./assets/informatica.png) **Informatica PowerCenter**
-- ![MDM](./assets/mdm.png) **Informatica Master Data Management (MDM)**
-- ![Talend](./assets/talend.png) **Talend**
-- ![IICS](./assets/iics.png) **Informatica Intelligent Cloud Services (IICS)**
-- ![Sqoop](./assets/sqoop.png) **Sqoop**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Informatica PowerCenter**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Informatica Master Data Management (MDM)**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Talend**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Informatica Intelligent Cloud Services (IICS)**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Sqoop**
 
 ### Cloud Platforms
-- ![AWS](./assets/aws.png) **Amazon Web Services (AWS)**
-- ![Azure](./assets/azure.png) **Microsoft Azure**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Amazon Web Services (AWS)**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Microsoft Azure**
 
 ### Big Data Tools & Technologies
-- ![Hadoop](./assets/hadoop.png) **Hadoop**
-- ![Hive](./assets/hive.png) **Hive**
-- ![PySpark](./assets/pyspark.png) **PySpark**
-- ![Databricks](./assets/databricks.png) **Databricks**
-- ![Snowflake](./assets/snowflake.png) **Snowflake**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Hadoop**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Hive**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **PySpark**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Databricks**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Snowflake**
 
 ### Version Control & Operating Systems
-- ![Git](./assets/git.png) **Git**
-- ![Linux](./assets/linux.png) **Linux**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Git**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Linux**
 
 ### Hardware & Embedded Systems 
-- ![Arduino](./assets/arduino.png) **Arduino**
+- <img src="./Images & GIFs/html.png" width="48" height="48"> **Arduino**
 
 ---
 
