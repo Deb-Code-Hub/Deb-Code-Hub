@@ -23,9 +23,9 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ### Backend Development
 - <img src="./Images & GIFs/django.svg" width="48" height="48"> **Django Framework**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **MySQL**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **PostgreSQL**
-- <img src="./Images & GIFs/html.png" width="48" height="48"> **PL/SQL**
+- <img src="./Images & GIFs/mysql-original-wordmark.svg" width="48" height="48"> **MySQL**
+- <img src="./Images & GIFs/postgresql-original-wordmark.svg" width="48" height="48"> **PostgreSQL**
+- <img src="./Images & GIFs/plsql.png" width="48" height="48"> **PL/SQL**
 
 ### Programming Languages
 - <img src="./Images & GIFs/html.png" width="48" height="48"> **Java**
