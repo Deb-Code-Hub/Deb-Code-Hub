@@ -74,7 +74,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/debraj-mondal-/)
 
 ---
 
