@@ -68,7 +68,7 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 ---
 
 ## 📄 My Resume 
-- [View My Resume](https://github.com/Deb-Code-Hub/Deb-Code-Hub/blob/main/Resume/DEBRAJ_MONDAL_CV_Resume.pdf)
+- [View My Resume](https://github.com/Deb-Code-Hub/Deb-Code-Hub/blob/main/Resume/Resume.pdf)
 
 ---
 
